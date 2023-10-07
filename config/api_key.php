@@ -1,3 +1,0 @@
-<?php
-
-return "g2LCwqoW9aaSVDIl3utfjqZfT3eY8b5mBu9XLzDm0FktnA5fKbEF6lykVpo6mrsH";
